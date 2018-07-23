@@ -1,1 +1,0 @@
-CREATE TABLE Violent_Moon_Num AS SELECT PercentageofIllumination,  COUNT(1)  AS Violent_Crime FROM Moon_Crime_Four WHERE NIBRS_CODE IN ('09A', '09B', '11A', '11B', '13A', '120') GROUP BY "Date";
