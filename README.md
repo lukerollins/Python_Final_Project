@@ -1,4 +1,6 @@
-# Code Louisville Project
+# Code Louisville Project  
+
+## by Luke Rollins
 
 During a session of Code Louisville's Python class, a mentor (Evan Payne) gave a demonstration about the data science/data visualisation that asked whether or not hot weather contributed to an increase in assaults in Louisville. It got me thinking about how the full moon is said to effect behavior. The above mentor mentioned that he was curious about whether the number of car break-ins increased and decreased in relation to moon fullness, so I decided to try to answer that question.
 
